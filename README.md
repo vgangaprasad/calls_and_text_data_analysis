@@ -27,7 +27,7 @@ All telephone numbers are 10 or 11 numerical digits long. Each telephone number 
 
 There are three different kinds of telephone numbers, each with a different format:   
 
-1. Fixed lines start with an area code enclosed in brackets. The area codes vary in length but always begin with 0. Example: "(022)40840621".    
+1. Land lines start with an area code enclosed in brackets. The area codes vary in length but always begin with 0. Example: "(022)40840621".    
 
 2. Mobile numbers have no parentheses, but have a space in the middle of the number to help readability. The mobile code of a mobile number is its first four digits and they always start with 7, 8 or 9. Example: "93412 66159".    
 
@@ -50,7 +50,7 @@ The script prints the telephone number that spent the longest time on the phone 
 
 ### Task3
 
-The script prints the telephone codes called by fixed-line numbers in Bangalore and the percentage of calls from fixed lines in Bangalore that are to fixed lines in Bangalore.
+The script prints the telephone codes called by Land-line numbers from a specific location and the percentage of calls from Land lines from that area that are to Land lines in the same area. 
 
 ### Task4
 
