@@ -34,25 +34,29 @@ There are three different kinds of telephone numbers, each with a different form
 3. Telemarketers' numbers have no parentheses or space, but start with the code 140. Example: "1402316533".    
 
 
+## About the scripts
 
-## Task0
+### Task0
 
 The script prints out the information of first record of texts and last record of calls
 
-## Task1
+### Task1
 
 The script prints number of distinct telephone numbers in the dataset.
 
-## Task2
+### Task2
 
 The script prints the telephone number that spent the longest time on the phone and the total time in seconds they spend on phone call.
 
-## Task3
+### Task3
 
 The script prints the telephone codes called by fixed-line numbers in Bangalore and the percentage of calls from fixed lines in Bangalore that are to fixed lines in Bangalore.
 
-## Task4
+### Task4
 
 The script prints the list of numbers that could be telemarketers.
 
 
+## Time & Space Complexity Analysis
+
+Added the time and space complexity analysis in Analysis.txt
