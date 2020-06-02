@@ -1,0 +1,27 @@
+Task 0:
+-------
+
+Time - O(1)
+Space - O(n) - to store the calls and text data in lists
+
+Task 1:
+-------
+Time - O(n) - to process each and every record from the calls and texts data
+Space - O(n) - to store the calls and text data in lists
+
+Task 2:
+-------
+Time - O(n) - to process each and every record from the calls and texts data
+Space - O(n) - to store the calls and text data in lists and also in dictionary
+
+
+Task 3:
+-------
+Time - O(n) - to process each and every record from the calls and texts data
+Space - O(n) - to store the calls and text data in lists
+
+
+Task 4:
+-------
+Time - O(n log(n)) as sorting is used
+Space - O(n) - to store the calls and text data in lists
