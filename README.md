@@ -10,13 +10,13 @@ Got some data about the calls and texts exchanged for a month and decided to use
 
 The text and call data are present in csv files.
 
-The text data (text.csv) has the following columns:    
+### The text data (text.csv) has the following columns:    
 
 sending telephone number (string),    
 receiving telephone number (string),    
 timestamp of text message (string).
 
-The call data (call.csv) has the following columns:    
+### The call data (call.csv) has the following columns:    
 
 calling telephone number (string),    
 receiving telephone number (string),    
@@ -36,10 +36,23 @@ There are three different kinds of telephone numbers, each with a different form
 
 
 ## Task0
-1. create_tables.py and sql_queries.py are used to creates tables, select, insert rows within a Postgresql database named 'sparkifydb'
-    
-2. The database has been created using a 'star schema' with fact and dimension tables, to allow analysis of user's 'song plays' on the app
-    
-3. Two collections of JSON log files are the data sources for the database: 'song data' and 'log_data'
+
+The script prints out the information of first record of texts and last record of calls
+
+## Task1
+
+The script prints number of distinct telephone numbers in the dataset.
+
+## Task2
+
+The script prints the telephone number that spent the longest time on the phone and the total time in seconds they spend on phone call.
+
+## Task3
+
+The script prints the telephone codes called by fixed-line numbers in Bangalore and the percentage of calls from fixed lines in Bangalore that are to fixed lines in Bangalore.
+
+## Task4
+
+The script prints the list of numbers that could be telemarketers.
 
 
